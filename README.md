@@ -37,5 +37,6 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](linkedin.com/in/pavankumar-k-122a27348)
-[![LeetCode](https://leetcode.com/u/pavan_kumar_K)
+
+[🔗 LinkedIn](https://linkedin.com/in/pavankumar-k-122a27348) 
+[💻 LeetCode](https://leetcode.com/u/pavan_kumar_K)
