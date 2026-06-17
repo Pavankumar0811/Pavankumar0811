@@ -23,9 +23,10 @@
 
 ## 📌 Featured Projects
 
-### 🤖 MockMind — AI Mock Interview App
-> AI-powered interview simulator with voice recognition, text-to-speech & Claude API integration  
-> Built with HTML, CSS, JavaScript
+### 🚀 CareerBuilder AI — AI Career Prep Platform
+> Full-stack career preparation platform with ATS Resume Scorer, Mock Interviews & LeetCode Practice  
+> Built with React, Tailwind CSS, Node.js, MongoDB, Gemini API  
+> [View Repository](https://github.com/Pavankumar0811/CareerBuilder-AI)
 
 ---
 
