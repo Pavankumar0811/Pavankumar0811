@@ -7,7 +7,6 @@
 - 🔭 Transitioning from Mechanical Engineering to Software Engineering
 - 🌱 Currently learning **Java** & **Data Structures and Algorithms**
 - 💡 Practicing LeetCode — Arrays, Binary Search, Two Pointers, Sliding Window
-- 🤖 Built **MockMind** — an AI-powered mock interview app with voice recognition & Claude API
 - 🎯 Targeting fresher SWE roles at product-based companies
 
 ---
